@@ -39,3 +39,4 @@ UI decisions
 AR/VR interaction principles
 
 Here is the mockups templates:
+<img width="4970" height="3855" alt="Image" src="https://github.com/user-attachments/assets/60382d24-c3e6-4dc4-892e-cf65ac8d418f" />
